@@ -4,6 +4,6 @@
 #### 그냥 재미로만 참고하고 연습용으로 만든것이다<br>
 ###### 질문은 인스타그램 owxuxn_로 문의<br>
 
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owxuxn_)
 
 2023-08-23 01:20:36 첫 게시됨.
