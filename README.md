@@ -6,5 +6,5 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owxuxn_)
 
-2023-08-23 01:20:36 첫 게시됨.
+2023-08-23 01:20:36 첫 게시됨. <br>
 2023-08-23 09:31:22 1차 수정됨.
